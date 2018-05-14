@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+	A git repository is created for that folder. I need it to be able to make commits and track file changes.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	It details the changes that I want to add to my commit.
